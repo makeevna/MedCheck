@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cda58ae0-6594-407a-9e3d-83320c3731dd" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DaoService/DaoDepartmentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DaoService/DaoDoctorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DaoService/DaoPatientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DaoService/DoaHospitalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/DoctorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/HospitalDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaoInterface/PatientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/DoctorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/HospitalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceImpl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceImpl/DoctorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceImpl/HospitalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServiceImpl/PatientServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled14.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VyWHV3zwzP41AH97gu9HJcl8FG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DataBase" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="DaoInterface.DaoService" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda58ae0-6594-407a-9e3d-83320c3731dd" name="Changes" comment="" />
+      <created>1695808712644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695808712644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
